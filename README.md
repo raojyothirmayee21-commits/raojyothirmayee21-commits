@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jyothi
+# Hi 👋, I'm Jyothirmayee
 
 ### Data Engineer | Azure | PySpark | Delta Lake
 
