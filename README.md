@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jyothirmayee
 
-### Data Engineer | Azure | PySpark | Delta Lake
+### Data Engineer | Azure | PySpark | Delta Lake | Databricks
 
 - 🔭 Data Engineer specialising in Azure, PySpark and Delta Lake
 - 🏗️ I build scalable, production-grade data pipelines using the Medallion Architecture
